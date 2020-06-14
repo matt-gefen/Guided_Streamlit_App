@@ -1,6 +1,6 @@
 # Streamlit Guided Web App
 
-# This notebook will be following Chanin Nantasenamat's article (Medium)
+# This script will be following Chanin Nantasenamat's article (Medium)
 # How to Build a Data Science Web App in Python
 # Link: https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020
 # The main goal here will be to build a simple, functioning web app
